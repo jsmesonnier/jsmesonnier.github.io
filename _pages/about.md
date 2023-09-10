@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "Mon Nom"
 excerpt: "About me"
