@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Jean-Stéphane Mésonnier"
+title                    : "Homepage of JSM"
 title_separator          : "-"
 name                     : &name "Jean-Stéphane Mésonnier"
 description              : &description "personal description"
