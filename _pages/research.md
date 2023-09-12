@@ -26,12 +26,11 @@ Working papers
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3733781" target="_blank">Showing off cleaner hands: mandatory climate-related disclosure by financial institutions and the financing of fossil energy.</a> Revised version: August 2022. Earlier version: Banque de France <a href="https://econpapers.repec.org/RePEc:bfr:banfra:800">Working Paper No. 800</a>, January 2021. With Benoit Nguyen. <span style="font-style: italic;">Under revision.</span>
 <div class='indent-after-br'>Press coverage:
 <a href="https://www.rsedatanews.net/article/article-finance-responsable-esg-isr-finance-durable--l-impact-de-l-article-173-sur-les-portefeuilles">RSE
-Data news</a>, <a href="https://www.responsible-investor.com/articles/french-climate-disclosure-laws-effective-in-curbing-fossil-fuel-financing-says-central-bank-study">Responsible investor</a>, <a href="https://www.economist.com/business/2021/03/13/regulators-want-firms-to-own-up-to-climate-risks" target="_blank">The Economist</a></div>
-
+Data news</a>, <a href="https://www.responsible-investor.com/articles/french-climate-disclosure-laws-effective-in-curbing-fossil-fuel-financing-says-central-bank-study">Responsible investor</a>, <a href="https://www.economist.com/business/2021/03/13/regulators-want-firms-to-own-up-to-climate-risks" target="_blank">The Economist</a></div><br>
 
 <a href="https://econpapers.repec.org/RePEc:bfr:banfra:792" target="_blank">Set-up costs and the financing of young firms</a>. Banque de France Working Paper No. 792, December 2020. Previous version: <a href="https://econpapers.repec.org/RePEc:cpr:ceprdp:14512">CEPR Discussion
 paper 14512</a>, March 2020. With François Derrien and Guillaume Vuillemey.<span style="font-style: italic;">Under revision.</span>
-<div class='indent-after-br'>Policy version:</span> <a href="https://www.suerf.org/suer-policy-brief/25303/set-up-costs-and-the-financing-of-young-firms" target="_blank">SUERF policy brief 93, May 2021</a></div>
+<div class='indent-after-br'>Policy version:</span> <a href="https://www.suerf.org/suer-policy-brief/25303/set-up-costs-and-the-financing-of-young-firms" target="_blank">SUERF policy brief 93, May 2021</a></div><br>
 
 
 Work in progress
