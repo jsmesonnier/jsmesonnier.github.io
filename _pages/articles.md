@@ -1,69 +1,69 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Publications"
+permalink: /articles/
 author_profile: true
 ---
 
 # Peer-reviewed publications
 
 
-Berthou, A., Horny, G., Mésonnier, J.-S., 2022. [The real effects of invoicing exports in dollars](https://www.sciencedirect.com/science/article/pii/S0022199622000010?dgcid=coauthor). Journal of International
+Berthou, A., Horny, G., MÃ©sonnier, J.-S., 2022. [The real effects of invoicing exports in dollars](https://www.sciencedirect.com/science/article/pii/S0022199622000010?dgcid=coauthor). Journal of International
 Economics. Volume 135, March.
 
-Mésonnier, J.-S., 2021. [Banks’ climate commitments and credit to carbon-intensive industries: new evidence for France](https://www.tandfonline.com/doi/full/10.1080/14693062.2021.2012121). Climate Policy. 22(3), 389-400.
+MÃ©sonnier, J.-S., 2021. [Banksâ€™ climate commitments and credit to carbon-intensive industries: new evidence for France](https://www.tandfonline.com/doi/full/10.1080/14693062.2021.2012121). Climate Policy. 22(3), 389-400.
 
-Carluccio, J., Mazet-Sonilhac, C., Mésonnier, J.-S., 2021. [Private firms, corporate investment and the WACC: evidence from France](https://www.tandfonline.com/doi/full/10.1080/1351847X.2021.1955463). The European Journal of Finance, forthcoming.
+Carluccio, J., Mazet-Sonilhac, C., MÃ©sonnier, J.-S., 2021. [Private firms, corporate investment and the WACC: evidence from France](https://www.tandfonline.com/doi/full/10.1080/1351847X.2021.1955463). The European Journal of Finance, forthcoming.
 
-Mésonnier, J.-S., O'Donnell, C. and O. Toutain, 2022. [The interest of being eligible]((https://onlinelibrary.wiley.com/doi/10.1111/jmcb.12851).Journal of Money, Credit and Banking, 54(2-3), March-April, 425-458.
+MÃ©sonnier, J.-S., O'Donnell, C. and O. Toutain, 2022. [The interest of being eligible]((https://onlinelibrary.wiley.com/doi/10.1111/jmcb.12851).Journal of Money, Credit and Banking, 54(2-3), March-April, 425-458.
 
-Andrade, P., Cahn, C., Fraisse, H., Mésonnier, J.-S., 2019. [Can the provision of long-term liquidity help to avoid a credit crunch? Evidence from the Eurosystem’s 3-year LTROs](https://doi.org/10.1093/jeea/jvy020).Journal of the European Economic Association, 17(4), 1070-1106.
+Andrade, P., Cahn, C., Fraisse, H., MÃ©sonnier, J.-S., 2019. [Can the provision of long-term liquidity help to avoid a credit crunch? Evidence from the Eurosystemâ€™s 3-year LTROs](https://doi.org/10.1093/jeea/jvy020).Journal of the European Economic Association, 17(4), 1070-1106.
 
-Fries, S., Mouabbi, S., Mésonnier, J.-S., Renne, J.-P., 2018. [National natural interest rates and the single monetary policy in the euro area](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2637).Journal of Applied Econometrics, 33(6), September, 763-779. [Online Appendix](https://www.dropbox.com/s/eff1tqeu9tliba9/appendix_FMMR_R%26RJAE_accepted_independent.pdf). [Estimated rstar series](https://www.dropbox.com/s/ilugcsu47siuxbo/newseries_baseline_accepted_4web.xls). 
+Fries, S., Mouabbi, S., MÃ©sonnier, J.-S., Renne, J.-P., 2018. [National natural interest rates and the single monetary policy in the euro area](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2637).Journal of Applied Econometrics, 33(6), September, 763-779. [Online Appendix](https://www.dropbox.com/s/eff1tqeu9tliba9/appendix_FMMR_R%26RJAE_accepted_independent.pdf). [Estimated rstar series](https://www.dropbox.com/s/ilugcsu47siuxbo/newseries_baseline_accepted_4web.xls). 
 
-Mésonnier, J.-S., Stevanovic, D., 2016. [The macroeconomic effects of shocks to large bank capital(http://onlinelibrary.wiley.com/doi/10.1111/obes.12162/full). Oxford Bulletin of Economics and Statistics, 79 (4), August, 546-569.
+MÃ©sonnier, J.-S., Stevanovic, D., 2016. [The macroeconomic effects of shocks to large bank capital(http://onlinelibrary.wiley.com/doi/10.1111/obes.12162/full). Oxford Bulletin of Economics and Statistics, 79 (4), August, 546-569.
 
-Mésonnier, J.-S., Monks, A., 2015. [Did the EBA Capital Exercise cause a credit crunch in the euro](http://www.ijcb.org/journal/ijcb15q3a2.html). International Journal of Central Banking, 11(3), June, 75-117.
+MÃ©sonnier, J.-S., Monks, A., 2015. [Did the EBA Capital Exercise cause a credit crunch in the euro](http://www.ijcb.org/journal/ijcb15q3a2.html). International Journal of Central Banking, 11(3), June, 75-117.
 
-Idier J., Lamé, G. and Mésonnier, J.-S., 2014. [How useful is the Marginal Expected Shortfall for the measurement of systemic exposure:a practical assessment](http://econpapers.repec.org/RePEc:eee:jbfina:v:47:y:2014:i:c:p:134-146). Journal of Banking and Finance, vol. 47, issue C, pages 134-146.
+Idier J., LamÃ©, G. and MÃ©sonnier, J.-S., 2014. [How useful is the Marginal Expected Shortfall for the measurement of systemic exposure:a practical assessment](http://econpapers.repec.org/RePEc:eee:jbfina:v:47:y:2014:i:c:p:134-146). Journal of Banking and Finance, vol. 47, issue C, pages 134-146.
 
-Jimborean, R., Mésonnier, J.-S., 2010. [Banks’ financial conditions and the transmission of monetary policy: a FAVAR approach](http://econpapers.repec.org/RePEc:ijc:ijcjou:y:2010:q:4:a:4). International Journal of Central Banking, 6 (4), December, 71-117.
+Jimborean, R., MÃ©sonnier, J.-S., 2010. [Banksâ€™ financial conditions and the transmission of monetary policy: a FAVAR approach](http://econpapers.repec.org/RePEc:ijc:ijcjou:y:2010:q:4:a:4). International Journal of Central Banking, 6 (4), December, 71-117.
 
-Frappa, S., Mésonnier, J.-S., 2010. [The housing price boom of the late ‘90s: did inflation targeting matter?](http://econpapers.repec.org/RePEc:eee:finsta:v:6:y:2010:i:4:p:243-254). Journal of Financial Stability, 6(4), 243-254.
+Frappa, S., MÃ©sonnier, J.-S., 2010. [The housing price boom of the late â€˜90s: did inflation targeting matter?](http://econpapers.repec.org/RePEc:eee:finsta:v:6:y:2010:i:4:p:243-254). Journal of Financial Stability, 6(4), 243-254.
 
-Mésonnier, J.-S., 2011. [The forecasting power of real interest rate gaps: an assessment for the euro area](http://econpapers.repec.org/RePEc:taf:applec:v:43:y:2011:i:2:p:153-172). Applied Economics, 43 (2), 153-172.
+MÃ©sonnier, J.-S., 2011. [The forecasting power of real interest rate gaps: an assessment for the euro area](http://econpapers.repec.org/RePEc:taf:applec:v:43:y:2011:i:2:p:153-172). Applied Economics, 43 (2), 153-172.
 
-Mésonnier, J.-S., Renne, J.-P., 2007. [A time-varying "natural" rate of interest for the euro area](http://econpapers.repec.org/RePEc:eee:eecrev:v:51:y:2007:i:7:p:1768-1784). European Economic Review, 51 (7), October, 1768-1784. 
+MÃ©sonnier, J.-S., Renne, J.-P., 2007. [A time-varying "natural" rate of interest for the euro area](http://econpapers.repec.org/RePEc:eee:eecrev:v:51:y:2007:i:7:p:1768-1784). European Economic Review, 51 (7), October, 1768-1784. 
 
-Mésonnier, J.-S., 2007. [Interest rate gaps and monetary policy in the work of Henry Thornton: beyond a retrospective Wicksellian Reading](http://econpapers.repec.org/RePEc:taf:eujhet:v:14:y:2007:i:4:p:657-680). European Journal of the History of Economic Thought, 14(4), December.
+MÃ©sonnier, J.-S., 2007. [Interest rate gaps and monetary policy in the work of Henry Thornton: beyond a retrospective Wicksellian Reading](http://econpapers.repec.org/RePEc:taf:eujhet:v:14:y:2007:i:4:p:657-680). European Journal of the History of Economic Thought, 14(4), December.
 
 
 # Policy publications
 
-Fraisse, H, Mésonnier, J.-S., 2023. [Accès au crédit des PME depuis la grande crise financière : quels effets des nouvelles politiques monétaires et prudentielles ?](https://www.cairn.info/revue-d-economie-financiere-2023-2-page-35.htm). Revue d'économie financière, 2023/2 (N° 150), p. 35-56. 
+Fraisse, H, MÃ©sonnier, J.-S., 2023. [AccÃ¨s au crÃ©dit des PME depuis la grande crise financiÃ¨re : quels effets des nouvelles politiques monÃ©taires et prudentielles ?](https://www.cairn.info/revue-d-economie-financiere-2023-2-page-35.htm). Revue d'Ã©conomie financiÃ¨re, 2023/2 (NÂ° 150), p. 35-56. 
 
-Berthou, A., Horny, G., Mésonnier, J.-S., 2018. [Dollar funding and French exports to the United States: lessons from the 2011 dollar crunch](https://econpapers.repec.org/RePEc:bfr:rueban:2018:62). Rue de la Banque No. 62, May.
+Berthou, A., Horny, G., MÃ©sonnier, J.-S., 2018. [Dollar funding and French exports to the United States: lessons from the 2011 dollar crunch](https://econpapers.repec.org/RePEc:bfr:rueban:2018:62). Rue de la Banque No. 62, May.
 
-Mésonnier, J.-S., Mazet-Sonilhac, C., 2016. [Le coût des capitaux propres des grandes entreprises non-financières en zone euro: une évaluation](http://econpapers.repec.org/RePEc:bfr:bullbf:2016:207:03). Bulletin de la Banque de France No. 207, Septembre-Octobre 2016.
+MÃ©sonnier, J.-S., Mazet-Sonilhac, C., 2016. [Le coÃ»t des capitaux propres des grandes entreprises non-financiÃ¨res en zone euro: une Ã©valuation](http://econpapers.repec.org/RePEc:bfr:bullbf:2016:207:03). Bulletin de la Banque de France No. 207, Septembre-Octobre 2016.
 
-Andrade, A., Cahn, C., Fraisse, H., Mésonnier, J.-S., 2015. [Did the Eurosystem’s LTROs of 2011 and 2012 help to avert a credit crunch in the euro area?](https://econpapers.repec.org/RePEc:bfr:rueban:2015:10) Rue de la Banque No. 10, September.
+Andrade, A., Cahn, C., Fraisse, H., MÃ©sonnier, J.-S., 2015. [Did the Eurosystemâ€™s LTROs of 2011 and 2012 help to avert a credit crunch in the euro area?](https://econpapers.repec.org/RePEc:bfr:rueban:2015:10) Rue de la Banque No. 10, September.
 
-Mésonnier, J.-S., Monk, A., 2015. [Heightened bank capital requirements and bank credit in a crisis: the case of the 2011 EBA Capital Exercise in the euro area](https://econpapers.repec.org/RePEc:bfr:rueban:2015:08). Rue de la Banque No. 8, July.
+MÃ©sonnier, J.-S., Monk, A., 2015. [Heightened bank capital requirements and bank credit in a crisis: the case of the 2011 EBA Capital Exercise in the euro area](https://econpapers.repec.org/RePEc:bfr:rueban:2015:08). Rue de la Banque No. 8, July.
 
-Loisel, O., Mésonnier, J.-S., 2009. [Unconventional monetary policy measures in response to the crisis]'https://econpapers.repec.org/paper/bfrcuriss/1.htm). Banque de France Current issues, No. 1, April.
+Loisel, O., MÃ©sonnier, J.-S., 2009. [Unconventional monetary policy measures in response to the crisis]'https://econpapers.repec.org/paper/bfrcuriss/1.htm). Banque de France Current issues, No. 1, April.
 
-Mésonnier, J.-S., 2005. [L’orientation de la politique monétaire à l’aune du taux d’intérêt naturel: une application à la zone euro](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_136_etu_2.pdf). Bulletin Mensuel de la Banque de France, Avril, 136, 41-58. 
+MÃ©sonnier, J.-S., 2005. [Lâ€™orientation de la politique monÃ©taire Ã  lâ€™aune du taux dâ€™intÃ©rÃªt naturel: une application Ã  la zone euro](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_136_etu_2.pdf). Bulletin Mensuel de la Banque de France, Avril, 136, 41-58. 
 
-Lecat, R., Mésonnier, J.-S., 2005. [What role do financial factors play in house price dynamics](http://www.banque-france.fr/fileadmin/user_upload/banque_de_france/Economists_and_researchers/134etud1.pdf), Banque de France Bulletin Digest, No. 134, March.
+Lecat, R., MÃ©sonnier, J.-S., 2005. [What role do financial factors play in house price dynamics](http://www.banque-france.fr/fileadmin/user_upload/banque_de_france/Economists_and_researchers/134etud1.pdf), Banque de France Bulletin Digest, No. 134, March.
 
-Mésonnier, J.-S., 2004. [Crédit hypothécaire et soutien à la consommation: quelles leçons tirer du modèle anglo-saxon?](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_132_etu_2.pdf). Bulletin Mensuel de la Banque de France, 132, Décembre, 43-58. 
+MÃ©sonnier, J.-S., 2004. [CrÃ©dit hypothÃ©caire et soutien Ã  la consommation: quelles leÃ§ons tirer du modÃ¨le anglo-saxon?](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_132_etu_2.pdf). Bulletin Mensuel de la Banque de France, 132, DÃ©cembre, 43-58. 
 
-Mésonnier, J.-S., 2004. [Le paradoxe de la crédibilité en question](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_122_etu_3.pdf). Bulletin Mensuel de la Banque de France, 122, Février, 65-88. Reprint in: Problèmes économiques, No. 2.856 (July 2004), la Documentation française, Paris. 
+MÃ©sonnier, J.-S., 2004. [Le paradoxe de la crÃ©dibilitÃ© en question](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_122_etu_3.pdf). Bulletin Mensuel de la Banque de France, 122, FÃ©vrier, 65-88. Reprint in: ProblÃ¨mes Ã©conomiques, No. 2.856 (July 2004), la Documentation franÃ§aise, Paris. 
 
-Mésonnier, J.-S., 2001. [Monnaie électronique et politique monétaire](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_91_etu_1.pdf). Bulletin Mensuel de la Banque de France, 91, Juillet, 51-64.
+MÃ©sonnier, J.-S., 2001. [Monnaie Ã©lectronique et politique monÃ©taire](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_91_etu_1.pdf). Bulletin Mensuel de la Banque de France, 91, Juillet, 51-64.
 
-Mésonnier, J.-S., 2000. [Les centres financiers extra-territoriaux: caractérisation et enjeux du suivi statistique](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_82_etu_2.pdf). Bulletin Mensuel de la Banque de France, 82, Octobre, 63-77.
+MÃ©sonnier, J.-S., 2000. [Les centres financiers extra-territoriaux: caractÃ©risation et enjeux du suivi statistique](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_82_etu_2.pdf). Bulletin Mensuel de la Banque de France, 82, Octobre, 63-77.
 
-Mésonnier, J.-S., 2000. Le financement du déficit courant américain: une mise en perspective 1982-1999. Conseil National du Crédit et du Titre, Rapport annuel 1999, 53-60, Paris.
+MÃ©sonnier, J.-S., 2000. Le financement du dÃ©ficit courant amÃ©ricain: une mise en perspective 1982-1999. Conseil National du CrÃ©dit et du Titre, Rapport annuel 1999, 53-60, Paris.
 
-Mésonnier, J.-S., 1999. [Le marché des émissions obligataires internationales en 1999: place et caractéristiques du compartiment de l’euro](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_78_etu_4.pdf). Bulletin Mensuel de la Banque de France, 78, Juin, 87-101.
+MÃ©sonnier, J.-S., 1999. [Le marchÃ© des Ã©missions obligataires internationales en 1999: place et caractÃ©ristiques du compartiment de lâ€™euro](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_78_etu_4.pdf). Bulletin Mensuel de la Banque de France, 78, Juin, 87-101.
