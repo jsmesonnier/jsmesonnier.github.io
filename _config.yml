@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Economist"
   location         : "Paris"
-  employer         : "Banque de France"
+  employer         : "Banque de France / Sciences Po"
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=amOd6HMAAAAJ&hl=fr&oi=ao"
-  email            :
+  email            : "jeanstephan.mesonnier@sciencespo.fr"
   researchgate     :  
   uri              :
   bitbucket        :
