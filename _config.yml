@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of MyName"
+title                    : "Homepage of JS Mésonnire"
 title_separator          : "-"
-name                     : &name "My Name"
+name                     : &name "Jean-Stéphane Mésonnier"
 description              : &description "personal description"
 url                      : https://jsmesonnier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jsmesonnier/jsmesonnier.github.io"
+repository               : "jsmesonnier.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jean-Stéphane Mésonnier"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Economist"
+  location         : "Paris"
+  employer         : "Banque de France"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.fr/citations?user=amOd6HMAAAAJ&hl=fr&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -115,6 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1553771"
+  repec            : "https://ideas.repec.org/e/pms5.html"
 
 
 # Reading Files
