@@ -19,6 +19,7 @@ author_profile: true
 
 ## Working papers
 
+
 <a href="https://publications.banque-france.fr/sites/default/files/medias/documents/wp865_0.pdf" target="_blank">Bank local specialization.</a> Banque de France WP No. 865, February 2022. With A. Duquerroy, C. Mazet-Sonilhac and D. Paravisini. <span style="font-style: italic;">Submitted.</span>
 
 <a href="https://econpapers.repec.org/RePEc:cpr:ceprdp:15890" target="_blank">Good connections: bank specialization and the tariff elasticity of exports.</a> Banque de France WP No. 814, May 2021. Also: <a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15890" target="_blank">CEPR Discussion paper 15890</a>, March 2021. With Antoine Berthou and Thierry Mayer. <span style="font-style: italic;">Revised and resubmitted at the Journal of International Economics.</span>
@@ -30,17 +31,17 @@ Data news</a>, <a href="https://www.responsible-investor.com/articles/french-cli
 
 <a href="https://econpapers.repec.org/RePEc:bfr:banfra:792" target="_blank">Set-up costs and the financing of young firms</a>. Banque de France Working Paper No. 792, December 2020. Previous version: <a href="https://econpapers.repec.org/RePEc:cpr:ceprdp:14512">CEPR Discussion
 paper 14512</a>, March 2020. With François Derrien and Guillaume Vuillemey.<span style="font-style: italic;">Under revision.</span>
-<div class='indent-after-br'>Policy version:</span> <a href="https://www.suerf.org/suer-policy-brief/25303/set-up-costs-and-the-financing-of-young-firms" target="_blank">SUERF policy brief 93, May 2021</a></div><br>
-
+<div class='indent-after-br'>Policy version: <a href="https://www.suerf.org/suer-policy-brief/25303/set-up-costs-and-the-financing-of-young-firms" target="_blank">SUERF policy brief 93, May 2021</a></div><br>
 
 ## Work in progress
+
 
 Some don't like it hot: bank depositors and NGO campaigns against "brown" banks. With Clément Mazet-Sonilhac.
 
 Greening banks: shareholders vs stakeholders. With Michele Fioretti and Clément Mazet-Sonilhac.
 
-
 ## Older unpublished working papers
+
 
 <a href="http://econpapers.repec.org/RePEc:bfr:banfra:350">Fiscal sustainability, default risk and euro area sovereign bond spreads</a>. Banque de
 France Working Paper No. 350, July 2012, with V. Borgy, T. Laubach and J.-P.Renne.
