@@ -17,7 +17,7 @@ author_profile: true
 
 <div style='text-align: justify; padding=0px; margin=0px;'>
 
-Working papers
+##Working papers
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://publications.banque-france.fr/sites/default/files/medias/documents/wp865_0.pdf" target="_blank">Bank local specialization.</a> Banque de France WP No. 865, February 2022. With A. Duquerroy, C. Mazet-Sonilhac and D. Paravisini. <span style="font-style: italic;">Submitted.</span>
 
@@ -33,8 +33,7 @@ paper 14512</a>, March 2020. With François Derrien and Guillaume Vuillemey.<spa
 <div class='indent-after-br'>Policy version:</span> <a href="https://www.suerf.org/suer-policy-brief/25303/set-up-costs-and-the-financing-of-young-firms" target="_blank">SUERF policy brief 93, May 2021</a></div><br>
 
 
-Work in progress
---------------------------------------------------------------------------------------------------------------------------------
+##Work in progress
 
 Some don't like it hot: bank depositors and NGO campaigns against "brown" banks. With Clément Mazet-Sonilhac.
 
