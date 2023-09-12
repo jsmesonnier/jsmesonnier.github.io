@@ -8,34 +8,34 @@ author_profile: true
 # Peer-reviewed publications
 
 
-Berthou, A., Horny, G., Mésonnier, J.-S., 2022. [The real effects of invoicing exports in dollars](https://www.sciencedirect.com/science/article/pii/S0022199622000010?dgcid=coauthor). Journal of International
-Economics. Volume 135, March.
+Berthou, A., Horny, G., Mésonnier, J.-S., 2022. [The real effects of invoicing exports in dollars](https://www.sciencedirect.com/science/article/pii/S0022199622000010?dgcid=coauthor). **Journal of International
+Economics**, Volume 135, March.
 
-Mésonnier, J.-S., 2021. [Banks’ climate commitments and credit to carbon-intensive industries: new evidence for France](https://www.tandfonline.com/doi/full/10.1080/14693062.2021.2012121). Climate Policy. 22(3), 389-400.
+Mésonnier, J.-S., 2021. [Banks’ climate commitments and credit to carbon-intensive industries: new evidence for France](https://www.tandfonline.com/doi/full/10.1080/14693062.2021.2012121). **Climate Policy**, 22(3), 389-400.
 
-Carluccio, J., Mazet-Sonilhac, C., Mésonnier, J.-S., 2021. [Private firms, corporate investment and the WACC: evidence from France](https://www.tandfonline.com/doi/full/10.1080/1351847X.2021.1955463). The European Journal of Finance, forthcoming.
+Carluccio, J., Mazet-Sonilhac, C., Mésonnier, J.-S., 2021. [Private firms, corporate investment and the WACC: evidence from France](https://www.tandfonline.com/doi/full/10.1080/1351847X.2021.1955463). **The European Journal of Finance**, 19(1), 86-110.
 
-Mésonnier, J.-S., O'Donnell, C. and O. Toutain, 2022. [The interest of being eligible]((https://onlinelibrary.wiley.com/doi/10.1111/jmcb.12851).Journal of Money, Credit and Banking, 54(2-3), March-April, 425-458.
+Mésonnier, J.-S., O'Donnell, C. and O. Toutain, 2022. [The interest of being eligible]((https://onlinelibrary.wiley.com/doi/10.1111/jmcb.12851). **Journal of Money, Credit and Banking**, 54(2-3), March-April, 425-458.
 
-Andrade, P., Cahn, C., Fraisse, H., Mésonnier, J.-S., 2019. [Can the provision of long-term liquidity help to avoid a credit crunch? Evidence from the Eurosystem’s 3-year LTROs](https://doi.org/10.1093/jeea/jvy020).Journal of the European Economic Association, 17(4), 1070-1106.
+Andrade, P., Cahn, C., Fraisse, H., Mésonnier, J.-S., 2019. [Can the provision of long-term liquidity help to avoid a credit crunch? Evidence from the Eurosystem’s 3-year LTROs](https://doi.org/10.1093/jeea/jvy020). **Journal of the European Economic Association**, 17(4), 1070-1106.
 
-Fries, S., Mouabbi, S., Mésonnier, J.-S., Renne, J.-P., 2018. [National natural interest rates and the single monetary policy in the euro area](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2637).Journal of Applied Econometrics, 33(6), September, 763-779. [Online Appendix](https://www.dropbox.com/s/eff1tqeu9tliba9/appendix_FMMR_R%26RJAE_accepted_independent.pdf). [Estimated rstar series](https://www.dropbox.com/s/ilugcsu47siuxbo/newseries_baseline_accepted_4web.xls). 
+Fries, S., Mouabbi, S., Mésonnier, J.-S., Renne, J.-P., 2018. [National natural interest rates and the single monetary policy in the euro area](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2637). **Journal of Applied Econometrics**, 33(6), September, 763-779. [Online Appendix](https://www.dropbox.com/s/eff1tqeu9tliba9/appendix_FMMR_R%26RJAE_accepted_independent.pdf). [Estimated rstar series](https://www.dropbox.com/s/ilugcsu47siuxbo/newseries_baseline_accepted_4web.xls). 
 
-Mésonnier, J.-S., Stevanovic, D., 2016. [The macroeconomic effects of shocks to large bank capital(http://onlinelibrary.wiley.com/doi/10.1111/obes.12162/full). Oxford Bulletin of Economics and Statistics, 79 (4), August, 546-569.
+Mésonnier, J.-S., Stevanovic, D., 2016. [The macroeconomic effects of shocks to large bank capital(http://onlinelibrary.wiley.com/doi/10.1111/obes.12162/full). **Oxford Bulletin of Economics and Statistics**, 79 (4), August, 546-569.
 
-Mésonnier, J.-S., Monks, A., 2015. [Did the EBA Capital Exercise cause a credit crunch in the euro](http://www.ijcb.org/journal/ijcb15q3a2.html). International Journal of Central Banking, 11(3), June, 75-117.
+Mésonnier, J.-S., Monks, A., 2015. [Did the EBA Capital Exercise cause a credit crunch in the euro](http://www.ijcb.org/journal/ijcb15q3a2.html). **International Journal of Central Banking**, 11(3), June, 75-117.
 
-Idier J., Lamé, G. and Mésonnier, J.-S., 2014. [How useful is the Marginal Expected Shortfall for the measurement of systemic exposure:a practical assessment](http://econpapers.repec.org/RePEc:eee:jbfina:v:47:y:2014:i:c:p:134-146). Journal of Banking and Finance, vol. 47, issue C, pages 134-146.
+Idier J., Lamé, G. and Mésonnier, J.-S., 2014. [How useful is the Marginal Expected Shortfall for the measurement of systemic exposure:a practical assessment](http://econpapers.repec.org/RePEc:eee:jbfina:v:47:y:2014:i:c:p:134-146). **Journal of Banking and Finance**, vol. 47, issue C, pages 134-146.
 
-Jimborean, R., Mésonnier, J.-S., 2010. [Banks’ financial conditions and the transmission of monetary policy: a FAVAR approach](http://econpapers.repec.org/RePEc:ijc:ijcjou:y:2010:q:4:a:4). International Journal of Central Banking, 6 (4), December, 71-117.
+Jimborean, R., Mésonnier, J.-S., 2010. [Banks’ financial conditions and the transmission of monetary policy: a FAVAR approach](http://econpapers.repec.org/RePEc:ijc:ijcjou:y:2010:q:4:a:4). **International Journal of Central Banking**, 6 (4), December, 71-117.
 
-Frappa, S., Mésonnier, J.-S., 2010. [The housing price boom of the late ‘90s: did inflation targeting matter?](http://econpapers.repec.org/RePEc:eee:finsta:v:6:y:2010:i:4:p:243-254). Journal of Financial Stability, 6(4), 243-254.
+Frappa, S., Mésonnier, J.-S., 2010. [The housing price boom of the late ‘90s: did inflation targeting matter?](http://econpapers.repec.org/RePEc:eee:finsta:v:6:y:2010:i:4:p:243-254). **Journal of Financial Stability**, 6(4), 243-254.
 
-Mésonnier, J.-S., 2011. [The forecasting power of real interest rate gaps: an assessment for the euro area](http://econpapers.repec.org/RePEc:taf:applec:v:43:y:2011:i:2:p:153-172). Applied Economics, 43 (2), 153-172.
+Mésonnier, J.-S., 2011. [The forecasting power of real interest rate gaps: an assessment for the euro area](http://econpapers.repec.org/RePEc:taf:applec:v:43:y:2011:i:2:p:153-172). **Applied Economics**, 43 (2), 153-172.
 
-Mésonnier, J.-S., Renne, J.-P., 2007. [A time-varying "natural" rate of interest for the euro area](http://econpapers.repec.org/RePEc:eee:eecrev:v:51:y:2007:i:7:p:1768-1784). European Economic Review, 51 (7), October, 1768-1784. 
+Mésonnier, J.-S., Renne, J.-P., 2007. [A time-varying "natural" rate of interest for the euro area](http://econpapers.repec.org/RePEc:eee:eecrev:v:51:y:2007:i:7:p:1768-1784). **European Economic Review**, 51 (7), October, 1768-1784. 
 
-Mésonnier, J.-S., 2007. [Interest rate gaps and monetary policy in the work of Henry Thornton: beyond a retrospective Wicksellian Reading](http://econpapers.repec.org/RePEc:taf:eujhet:v:14:y:2007:i:4:p:657-680). European Journal of the History of Economic Thought, 14(4), December.
+Mésonnier, J.-S., 2007. [Interest rate gaps and monetary policy in the work of Henry Thornton: beyond a retrospective Wicksellian Reading](http://econpapers.repec.org/RePEc:taf:eujhet:v:14:y:2007:i:4:p:657-680). **European Journal of the History of Economic Thought**, 14(4), December.
 
 
 # Policy publications
