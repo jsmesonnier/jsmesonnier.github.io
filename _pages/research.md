@@ -19,15 +19,15 @@ author_profile: true
 
 <span style="font-size: 16pt;font-style: bold;">Working papers</span>
 
-<a href="https://publications.banque-france.fr/sites/default/files/medias/documents/wp865_0.pdf" target="_blank">Bank local specialization. Banque de France WP No. 865, February 2022. With A. Duquerroy, C. Mazet-Sonilhac and D. Paravisini. <span style="font-style: italic;">Submitted.</span>
+<a href="https://publications.banque-france.fr/sites/default/files/medias/documents/wp865_0.pdf" target="_blank">Bank local specialization.</a> Banque de France WP No. 865, February 2022. With A. Duquerroy, C. Mazet-Sonilhac and D. Paravisini. <span style="font-style: italic;">Submitted.</span>
 
 <a href="https://econpapers.repec.org/RePEc:cpr:ceprdp:15890" target="_blank">Good connections: bank specialization and the tariff elasticity of exports.</a> Banque de France WP No. 814, May 2021. Also: <a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15890" target="_blank">CEPR Discussion paper 15890</a>, March 2021. With Antoine Berthou and Thierry Mayer. <span style="font-style: italic;">Revised and resubmitted at the Journal of International Economics.</span>
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3733781" target="_blank">Showing off cleaner hands: mandatory climate-related disclosure by financial institutions and the financing of fossil energy.</a> Revised version: August 2022. Earlier version: Banque de France <a href="https://econpapers.repec.org/RePEc:bfr:banfra:800">Working Paper No. 800</a>, January 2021. With Benoit Nguyen. <span style="font-style: italic;">Under revision.</span>
-
 <div class='indent-after-br'>Press coverage:
 <a href="https://www.rsedatanews.net/article/article-finance-responsable-esg-isr-finance-durable--l-impact-de-l-article-173-sur-les-portefeuilles">RSE
 Data news</a>, <a href="https://www.responsible-investor.com/articles/french-climate-disclosure-laws-effective-in-curbing-fossil-fuel-financing-says-central-bank-study">Responsible investor</a>, <a href="https://www.economist.com/business/2021/03/13/regulators-want-firms-to-own-up-to-climate-risks" target="_blank">The Economist</a></div>
+
 
 <a href="https://econpapers.repec.org/RePEc:bfr:banfra:792" target="_blank">Set-up costs and the financing of young firms</a>. Banque de France Working Paper No. 792, December 2020. Previous version: <a href="https://econpapers.repec.org/RePEc:cpr:ceprdp:14512">CEPR Discussion
 paper 14512</a>, March 2020. With François Derrien and Guillaume Vuillemey.<span style="font-style: italic;">Under revision.</span>
