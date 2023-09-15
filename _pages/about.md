@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /about/
 title: "Jean-Stéphane Mésonnier"
 excerpt: "About me"
