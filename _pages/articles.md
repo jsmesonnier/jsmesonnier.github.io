@@ -15,7 +15,7 @@ Mésonnier, J.-S., 2021. [Banks’ climate commitments and credit to carbon-inte
 
 Carluccio, J., Mazet-Sonilhac, C., Mésonnier, J.-S., 2021. [Private firms, corporate investment and the WACC: evidence from France](https://www.tandfonline.com/doi/full/10.1080/1351847X.2021.1955463). **The European Journal of Finance**, 19(1), 86-110.
 
-Mésonnier, J.-S., O'Donnell, C. and O. Toutain, 2022. [The interest of being eligible]((https://onlinelibrary.wiley.com/doi/10.1111/jmcb.12851). **Journal of Money, Credit and Banking**, 54(2-3), March-April, 425-458.
+Mésonnier, J.-S., O'Donnell, C. and O. Toutain, 2022. [The interest of being eligible](https://onlinelibrary.wiley.com/doi/10.1111/jmcb.12851). **Journal of Money, Credit and Banking**, 54(2-3), March-April, 425-458.
 
 Andrade, P., Cahn, C., Fraisse, H., Mésonnier, J.-S., 2019. [Can the provision of long-term liquidity help to avoid a credit crunch? Evidence from the Eurosystem’s 3-year LTROs](https://doi.org/10.1093/jeea/jvy020). **Journal of the European Economic Association**, 17(4), 1070-1106.
 
