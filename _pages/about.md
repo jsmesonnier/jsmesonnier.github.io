@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /about/
+permalink: /
 title: "Jean-Stéphane Mésonnier"
 excerpt: "About me"
 author_profile: true
