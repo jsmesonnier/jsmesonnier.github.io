@@ -28,7 +28,7 @@ author_profile: true
 **Monetary analysis and policy**, 18 hours major course, First year Master degree in Economics: 2009, 2010.
 
 
-# Paris 1 (Panthéon Sorbonne) University (2008-2010)
+# Paris 1 (PanthÃ©on Sorbonne) University (2008-2010)
 
 **Monetary Theory and Policy**, Application classes, First year Master degree in Economics: 2008, 2009.
 
