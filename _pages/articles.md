@@ -21,7 +21,7 @@ Andrade, P., Cahn, C., Fraisse, H., Mésonnier, J.-S., 2019. [Can the provision 
 
 Fries, S., Mouabbi, S., Mésonnier, J.-S., Renne, J.-P., 2018. [National natural interest rates and the single monetary policy in the euro area](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2637). **Journal of Applied Econometrics**, 33(6), September, 763-779. [Online Appendix](https://www.dropbox.com/s/eff1tqeu9tliba9/appendix_FMMR_R%26RJAE_accepted_independent.pdf). [Estimated rstar series](https://www.dropbox.com/s/ilugcsu47siuxbo/newseries_baseline_accepted_4web.xls). 
 
-Mésonnier, J.-S., Stevanovic, D., 2016. [The macroeconomic effects of shocks to large bank capital(http://onlinelibrary.wiley.com/doi/10.1111/obes.12162/full). **Oxford Bulletin of Economics and Statistics**, 79 (4), August, 546-569.
+Mésonnier, J.-S., Stevanovic, D., 2016. [The macroeconomic effects of shocks to large bank capital](http://onlinelibrary.wiley.com/doi/10.1111/obes.12162/full). **Oxford Bulletin of Economics and Statistics**, 79 (4), August, 546-569.
 
 Mésonnier, J.-S., Monks, A., 2015. [Did the EBA Capital Exercise cause a credit crunch in the euro](http://www.ijcb.org/journal/ijcb15q3a2.html). **International Journal of Central Banking**, 11(3), June, 75-117.
 
@@ -50,7 +50,7 @@ Andrade, A., Cahn, C., Fraisse, H., Mésonnier, J.-S., 2015. [Did the Eurosystem
 
 Mésonnier, J.-S., Monk, A., 2015. [Heightened bank capital requirements and bank credit in a crisis: the case of the 2011 EBA Capital Exercise in the euro area](https://econpapers.repec.org/RePEc:bfr:rueban:2015:08). Rue de la Banque No. 8, July.
 
-Loisel, O., Mésonnier, J.-S., 2009. [Unconventional monetary policy measures in response to the crisis]'https://econpapers.repec.org/paper/bfrcuriss/1.htm). Banque de France Current issues, No. 1, April.
+Loisel, O., Mésonnier, J.-S., 2009. [Unconventional monetary policy measures in response to the crisis]('https://econpapers.repec.org/paper/bfrcuriss/1.htm). Banque de France Current issues, No. 1, April.
 
 Mésonnier, J.-S., 2005. [L’orientation de la politique monétaire à l’aune du taux d’intérêt naturel: une application à la zone euro](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_136_etu_2.pdf). Bulletin Mensuel de la Banque de France, Avril, 136, 41-58. 
 
