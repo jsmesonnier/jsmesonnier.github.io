@@ -11,9 +11,9 @@ author_profile: true
 
 _Past editions:_
 
-<p style='text-align: justify;'>No Summer workshops in June 2022 as Sciences Po hosted the 2022 Annual Congress of the French economic association (AFSE). SPWSF replaced with two invited sessions on sustainable finance within the program of the Congress.</p>
+<p style='text-align: justify;'>No Summer workshop in June 2023 as Sciences Po's Econ Department hosted the 2023 Annual Congress of the French economic association (AFSE).</p>
 
-**Paris, 20-21 June 2021.** [Program](https://www.sciencespo.fr/department-economics/en/content/first-summer-workshop-sustainable-finance.html) 
+**Paris, 20-21 June 2022.** [Program](https://www.sciencespo.fr/department-economics/en/content/first-summer-workshop-sustainable-finance.html) 
 
 
 # Joint research conference on Firm Financing, Organization and Dynamics (FirmOrgDyn)
