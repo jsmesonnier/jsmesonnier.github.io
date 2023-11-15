@@ -17,7 +17,7 @@ author_profile: true
 <a href="https://www.rsedatanews.net/article/article-finance-responsable-esg-isr-finance-durable--l-impact-de-l-article-173-sur-les-portefeuilles">RSE
 Data news</a>, <a href="https://www.responsible-investor.com/articles/french-climate-disclosure-laws-effective-in-curbing-fossil-fuel-financing-says-central-bank-study">Responsible investor</a>, <a href="https://www.economist.com/business/2021/03/13/regulators-want-firms-to-own-up-to-climate-risks" target="_blank">The Economist</a>
 
-[Set-up costs and the financing of young firms](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15890). Banque de France Working Paper No. 792, December 2020. Previous version: [CEPR Discussion paper 14512](https://econpapers.repec.org/RePEc:cpr:ceprdp:14512), March 2020. With François Derrien and Guillaume Vuillemey. _Under revision_.
+[Set-up costs and the financing of young firms](https://econpapers.repec.org/RePEc:bfr:banfra:792). Banque de France Working Paper No. 792, December 2020. Previous version: [CEPR Discussion paper 14512](https://econpapers.repec.org/RePEc:cpr:ceprdp:14512), March 2020. With François Derrien and Guillaume Vuillemey. _Under revision_.
 **Policy brief:** [SUERF policy brief 93](https://www.suerf.org/suer-policy-brief/25303/set-up-costs-and-the-financing-of-young-firms), May 2021
 
 # Work in progress
