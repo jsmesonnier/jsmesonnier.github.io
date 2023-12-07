@@ -7,13 +7,15 @@ author_profile: true
 
 # Sciences Po (since 2021)
 
-**Financial Markets and Sustainable Investment**, 24 hours elective course, Master degree in International management and sustainability, Spring term: 2023-.... 
+**Introduction to Green Finance**, 24 hours elective course, 2nd year of Master degree in International Economic Policy (School of International Affairs), Spring term: 2024-....
+
+**Financial Markets and Sustainable Investment**, 24 hours elective course, 1st year of Master degree in International Business and sustainability (School of Management and Impact), Spring term: 2023-.... 
 
 **Principles of Finance**, 24 hours major course, 2nd year undergraduates, Fall term: 2022-....
 
 **Financial Economics**, 24 hours major course, 3rd year undergraduates, Spring term: 2022. 
 
-**Financial Markets**, 24 hours elective course, Master degree in International management and sustainability, Fall term: 2021.
+**Financial Markets**, 24 hours elective course, 1st year of Master degree in International Business and sustainability (School of Management and Impact), Fall term: 2021.
 
 
 # ENSAE (2011-2018)
