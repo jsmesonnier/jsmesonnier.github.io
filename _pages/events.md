@@ -18,11 +18,9 @@ _Past editions:_
 
 # Joint research conference on Firm Financing, Organization and Dynamics (FirmOrgDyn)
 
-_Upcoming:_
+_Past editions_
 
 **Adapting to a riskier and more fragmented world.**  Rome, 11-12 December 2023. [Call for papers](https://www.bancaditalia.it/media/notizia/international-research-conference-on-firm-financing-organization-and-dynamics-adapting-to-a-riskier-and-more-fragmented-world/?dotcache=refresh&dotcache=refresh&dotcache=refresh) and [Program](https://www.bancaditalia.it/media/agenda/2023-12-11_international-research-conference-on-firm-financing-organization-and-dynamics-adapting-to-a-riskier-and-more-fragmented-world/?com.dotmarketing.htmlpage.language=1)
-
-_Past editions:_
 
 **Bracing for the ecological transition.**  Paris, 1-2 December 2022. [Program](https://www.sciencespo.fr/department-economics/en/news/bracing-ecological-transition-0.html)
 
