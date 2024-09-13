@@ -11,6 +11,8 @@ author_profile: true
 
 _Past editions:_
 
+**Paris, 10-11 June 2024.** [Program](https://www.sciencespo.fr/department-economics/events/2024-summer-workshops-in-economics-june-10-and-11th/) 
+
 <p style='text-align: justify;'>No Summer workshop in June 2023 as Sciences Po's Econ Department hosted the 2023 Annual Congress of the French economic association (AFSE).</p>
 
 **Paris, 20-21 June 2022.** [Program](https://www.sciencespo.fr/department-economics/en/content/first-summer-workshop-sustainable-finance.html) 
