@@ -19,8 +19,6 @@ author_profile: true
 
 [Bank local specialization](https://publications.banque-france.fr/sites/default/files/medias/documents/wp865_0.pdf).Banque de France WP No. 865, February 2022. With A. Duquerroy, C. Mazet-Sonilhac and D. Paravisini. _Under revision_.
 
-[Good connections: bank specialization and the tariff elasticity of exports](https://econpapers.repec.org/RePEc:cpr:ceprdp:15890). Banque de France WP No. 814, May 2021. Also: [CEPR Discussion paper 15890](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15890), March 2021. With Antoine Berthou and Thierry Mayer. _Revise and resubmit (2nd round) at the Journal of International Economics_.
-
 [Showing off cleaner hands: mandatory climate-related disclosure by financial institutions and the financing of fossil energy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3733781). Revised version: August 2022. Earlier version: Banque de France Working Paper No. 800, January 2021. With Benoit Nguyen. _Under revision_.
 **Press coverage:**
 <a href="https://www.rsedatanews.net/article/article-finance-responsable-esg-isr-finance-durable--l-impact-de-l-article-173-sur-les-portefeuilles">RSE
