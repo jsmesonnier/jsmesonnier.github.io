@@ -7,6 +7,8 @@ author_profile: true
 
 # Peer-reviewed publications
 
+Berthou, A., Mayer, T., Mésonnier, J.-S., 2024. [Good connections: bank specialization and the tariff elasticity of exports](https://www.sciencedirect.com/science/article/pii/S002219962400148X?dgcid=author). **Journal of International
+Economics**, Volume 152, November.
 
 Berthou, A., Horny, G., Mésonnier, J.-S., 2022. [The real effects of invoicing exports in dollars](https://www.sciencedirect.com/science/article/pii/S0022199622000010?dgcid=coauthor). **Journal of International
 Economics**, Volume 135, March.
