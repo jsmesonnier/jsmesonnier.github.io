@@ -32,9 +32,9 @@ Data news</a>, <a href="https://www.responsible-investor.com/articles/french-cli
 
 # Older unpublished working papers
 
-[Fiscal sustainability, default risk and euro area sovereign bond spreads](http://econpapers.repec.org/RePEc:bfr:banfra:350). Banque de
+[Fiscal sustainability, default risk and euro area sovereign bond spreads](https://www.dropbox.com/scl/fi/snveyptfvue1c6z1wwi1n/document-de-travail_350_2011.pdf?rlkey=ki4d6wh6bd57j0rhpdr8auygd&dl=0). Banque de
 France Working Paper No. 350, July 2012, with Vladimir Borgy, Thomas Laubach and Jean-Paul Renne.
 
-[Does uncertainty make a time-varying natural rate of interest irrelevant for the conduct of monetary policy?](http://econpapers.repec.org/RePEc:bfr:banfra:175) October 2007, with Jean-Paul Renne.
+[Does uncertainty make a time-varying natural rate of interest irrelevant for the conduct of monetary policy?](https://www.dropbox.com/scl/fi/tw7k75borwc4t2sgwh1ax/document-de-travail_175_2007.pdf?rlkey=kkggzh0q22ppsn033p5rrhnx9&dl=0) October 2007, with Jean-Paul Renne.
 
-[Règle de Taylor et politique monétaire dans la zone euro](http://econpapers.repec.org/RePEc:bfr:banfra:117). Banque de France Working Paper, September 2004, with J.-P. Renne.
+[Règle de Taylor et politique monétaire dans la zone euro](https://www.dropbox.com/scl/fi/p2tzr3jlsk4mhstgq4zfo/document-de-travail_117_2004.pdf?rlkey=5xuj9th1njz6py04oojqmozhv&dl=0). Banque de France Working Paper, September 2004, with J.-P. Renne.

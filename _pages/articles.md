@@ -46,7 +46,7 @@ Mésonnier, J.-S., 2007. [Interest rate gaps and monetary policy in the work of 
 
 Fraisse, H, Mésonnier, J.-S., 2023. [Accès au crédit des PME depuis la grande crise financière : quels effets des nouvelles politiques monétaires et prudentielles ?](https://www.cairn.info/revue-d-economie-financiere-2023-2-page-35.htm). Revue d'économie financière, 2023/2 (N° 150), p. 35-56. 
 
-Derrien, F., Mésonnier, J.-S., Vuillemey, G., 2025. [Set-up costs and the financing of young firms](https://www.suerf.org/suer-policy-brief/25303/set-up-costs-and-the-financing-of-young-firms). SUERF policy brief No. 93, May 2021
+Derrien, F., Mésonnier, J.-S., Vuillemey, G., 2025. [Set-up costs and the financing of young firms](https://www.suerf.org/publications/suerf-policy-notes-and-briefs/set-up-costs-and-the-financing-of-young-firms/). SUERF policy brief No. 93, May 2021
 
 Berthou, A., Horny, G., Mésonnier, J.-S., 2018. [Dollar funding and French exports to the United States: lessons from the 2011 dollar crunch](https://publications.banque-france.fr/sites/default/files/medias/documents/818161_rdb62_en_v3.pdf). Rue de la Banque No. 62, May.
 
