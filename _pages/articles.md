@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 # Peer-reviewed publications
+Derrien, F., Mésonnier, J.-S., Vuillemey, G., 2025. [Set-up costs and the financing of young firms](https://www.dropbox.com/scl/fi/45h868di13amjz15n60u2/DMV_paper_20250117.pdf?rlkey=54n9hcf27qx93tt4hefyy3qwn&dl=0). **Management Science**, forthcoming.
+_Previous version:_ [CEPR Discussion paper 14512](https://econpapers.repec.org/RePEc:cpr:ceprdp:14512), March 2020.
 
 Berthou, A., Mayer, T., Mésonnier, J.-S., 2024. [Good connections: bank specialization and the tariff elasticity of exports](https://www.sciencedirect.com/science/article/pii/S002219962400148X?dgcid=author). **Journal of International
 Economics**, Volume 152, November.
@@ -44,28 +46,30 @@ Mésonnier, J.-S., 2007. [Interest rate gaps and monetary policy in the work of 
 
 Fraisse, H, Mésonnier, J.-S., 2023. [Accès au crédit des PME depuis la grande crise financière : quels effets des nouvelles politiques monétaires et prudentielles ?](https://www.cairn.info/revue-d-economie-financiere-2023-2-page-35.htm). Revue d'économie financière, 2023/2 (N° 150), p. 35-56. 
 
-Berthou, A., Horny, G., Mésonnier, J.-S., 2018. [Dollar funding and French exports to the United States: lessons from the 2011 dollar crunch](https://econpapers.repec.org/RePEc:bfr:rueban:2018:62). Rue de la Banque No. 62, May.
+Derrien, F., Mésonnier, J.-S., Vuillemey, G., 2025. [Set-up costs and the financing of young firms](https://www.suerf.org/suer-policy-brief/25303/set-up-costs-and-the-financing-of-young-firms). SUERF policy brief No. 93, May 2021
 
-Mésonnier, J.-S., Mazet-Sonilhac, C., 2016. [Le coût des capitaux propres des grandes entreprises non-financières en zone euro: une évaluation](http://econpapers.repec.org/RePEc:bfr:bullbf:2016:207:03). Bulletin de la Banque de France No. 207, Septembre-Octobre 2016.
+Berthou, A., Horny, G., Mésonnier, J.-S., 2018. [Dollar funding and French exports to the United States: lessons from the 2011 dollar crunch](https://publications.banque-france.fr/sites/default/files/medias/documents/818161_rdb62_en_v3.pdf). Rue de la Banque No. 62, May.
 
-Andrade, A., Cahn, C., Fraisse, H., Mésonnier, J.-S., 2015. [Did the Eurosystem’s LTROs of 2011 and 2012 help to avert a credit crunch in the euro area?](https://econpapers.repec.org/RePEc:bfr:rueban:2015:10) Rue de la Banque No. 10, September.
+Mésonnier, J.-S., Mazet-Sonilhac, C., 2016. [Le coût des capitaux propres des grandes entreprises non-financières en zone euro: une évaluation](https://publications.banque-france.fr/sites/default/files/medias/documents/bulletin-de-la-banque-de-france_207_2016-09-10.pdf#page=33). Bulletin de la Banque de France No. 207, Septembre-Octobre 2016.
 
-Mésonnier, J.-S., Monk, A., 2015. [Heightened bank capital requirements and bank credit in a crisis: the case of the 2011 EBA Capital Exercise in the euro area](https://econpapers.repec.org/RePEc:bfr:rueban:2015:08). Rue de la Banque No. 8, July.
+Andrade, A., Cahn, C., Fraisse, H., Mésonnier, J.-S., 2015. [Did the Eurosystem’s LTROs of 2011 and 2012 help to avert a credit crunch in the euro area?](https://publications.banque-france.fr/sites/default/files/medias/documents/rue-de-la-banque_10_2015-09_en.pdf) Rue de la Banque No. 10, September.
 
-Loisel, O., Mésonnier, J.-S., 2009. [Unconventional monetary policy measures in response to the crisis]('https://econpapers.repec.org/paper/bfrcuriss/1.htm). Banque de France Current issues, No. 1, April.
+Mésonnier, J.-S., Monk, A., 2015. [Heightened bank capital requirements and bank credit in a crisis: the case of the 2011 EBA Capital Exercise in the euro area](https://publications.banque-france.fr/sites/default/files/medias/documents/rue-de-la-banque_08_2015-07_en.pdf). Rue de la Banque No. 8, July.
 
-Mésonnier, J.-S., 2005. [L’orientation de la politique monétaire à l’aune du taux d’intérêt naturel: une application à la zone euro](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_136_etu_2.pdf). Bulletin Mensuel de la Banque de France, Avril, 136, 41-58. 
+Loisel, O., Mésonnier, J.-S., 2009. [Unconventional monetary policy measures in response to the crisis](https://econpapers.repec.org/paper/bfrcuriss/1.htm). Banque de France Current issues, No. 1, April.
 
-Lecat, R., Mésonnier, J.-S., 2005. [What role do financial factors play in house price dynamics](http://www.banque-france.fr/fileadmin/user_upload/banque_de_france/Economists_and_researchers/134etud1.pdf), Banque de France Bulletin Digest, No. 134, March.
+Mésonnier, J.-S., 2005. [L’orientation de la politique monétaire à l’aune du taux d’intérêt naturel: une application à la zone euro](https://publications.banque-france.fr/sites/default/files/medias/documents/bulletin-de-la-banque-de-france_136_2005-04.pdf#page=47). Bulletin Mensuel de la Banque de France, Avril, 136, 41-58. 
 
-Mésonnier, J.-S., 2004. [Crédit hypothécaire et soutien à la consommation: quelles leçons tirer du modèle anglo-saxon?](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_132_etu_2.pdf). Bulletin Mensuel de la Banque de France, 132, Décembre, 43-58. 
+Lecat, R., Mésonnier, J.-S., 2005. [Dynamique des prix des logements: quel rôel des facteurs financiers?](https://publications.banque-france.fr/sites/default/files/medias/documents/bulletin-de-la-banque-de-france_133_2005-01.pdf#page=35), Bulletin Mensuel de la Banque de France, 133, Janvier, 29-48. Also: Banque de France, Bulletin Digest, No. 134, March.
 
-Mésonnier, J.-S., 2004. [Le paradoxe de la crédibilité en question](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_122_etu_3.pdf). Bulletin Mensuel de la Banque de France, 122, Février, 65-88. Reprint in: Problèmes économiques, No. 2.856 (July 2004), la Documentation française, Paris. 
+Mésonnier, J.-S., 2004. [Crédit hypothécaire et soutien à la consommation: quelles leçons tirer du modèle anglo-saxon?](https://publications.banque-france.fr/sites/default/files/medias/documents/bulletin-de-la-banque-de-france_132_2004-12.pdf#page=49). Bulletin Mensuel de la Banque de France, 132, Décembre, 43-58. 
 
-Mésonnier, J.-S., 2001. [Monnaie électronique et politique monétaire](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_91_etu_1.pdf). Bulletin Mensuel de la Banque de France, 91, Juillet, 51-64.
+Mésonnier, J.-S., 2004. [Le paradoxe de la crédibilité en question](https://publications.banque-france.fr/sites/default/files/medias/documents/bulletin-de-la-banque-de-france_122_2004-02.pdf#page=71 ). Bulletin Mensuel de la Banque de France, 122, Février, 65-88. Reprint in: Problèmes économiques, No. 2.856 (July 2004), la Documentation française, Paris. 
 
-Mésonnier, J.-S., 2000. [Les centres financiers extra-territoriaux: caractérisation et enjeux du suivi statistique](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_82_etu_2.pdf). Bulletin Mensuel de la Banque de France, 82, Octobre, 63-77.
+Mésonnier, J.-S., 2001. [Monnaie électronique et politique monétaire](https://publications.banque-france.fr/sites/default/files/medias/documents/bulletin-de-la-banque-de-france_91_2001-07.pdf#page=51). Bulletin Mensuel de la Banque de France, 91, Juillet, 51-64.
+
+Mésonnier, J.-S., 2000. [Les centres financiers extra-territoriaux: caractérisation et enjeux du suivi statistique](https://publications.banque-france.fr/sites/default/files/medias/documents/bulletin-de-la-banque-de-france_82_2000-10.pdf#page=59). Bulletin Mensuel de la Banque de France, 82, Octobre, 63-77.
 
 Mésonnier, J.-S., 2000. Le financement du déficit courant américain: une mise en perspective 1982-1999. Conseil National du Crédit et du Titre, Rapport annuel 1999, 53-60, Paris.
 
-Mésonnier, J.-S., 1999. [Le marché des émissions obligataires internationales en 1999: place et caractéristiques du compartiment de l’euro](https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/archipel/publications/bdf_bm/etudes_bdf_bm/bdf_bm_78_etu_4.pdf). Bulletin Mensuel de la Banque de France, 78, Juin, 87-101.
+Mésonnier, J.-S., 2000. [Le marché des émissions obligataires internationales en 1999: place et caractéristiques du compartiment de l’euro](https://publications.banque-france.fr/sites/default/files/medias/documents/bulletin-de-la-banque-de-france_78_2000-06.pdf#page=87). Bulletin Mensuel de la Banque de France, 78, Juin, 87-101.

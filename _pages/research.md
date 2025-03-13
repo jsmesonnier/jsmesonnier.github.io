@@ -15,7 +15,7 @@ author_profile: true
 
 # Working papers
 
-[Some don't like it hot: bank depositors and NGO campaigns against fossil banks](https://www.sciencespo.fr/department-economics/sites/sciencespo.fr.department-economics/files/2024_clement_mazet_et_jean_mesonnier_some_don_t_like_it_hot_v2.pdf). Sciences Po Discussion Paper No. 2023-08. Revised version: September 2024. With Clément Mazet-Sonilhac.
+[Some don't like it hot: bank depositors and NGO campaigns against brown banks](https://sciencespo.hal.science/hal-04350378v2). Sciences Po Discussion Paper No. 2023-08. Revised version: September 2024. With Clément Mazet-Sonilhac. Also [Banque de France Working Paper No. 968](https://www.banque-france.fr/en/publications-and-statistics/publications/some-dont-it-hot-bank-depositors-and-ngo-campaigns-against-brown-banks)
 
 [Bank local specialization](https://publications.banque-france.fr/sites/default/files/medias/documents/wp865_0.pdf).Banque de France WP No. 865, February 2022. With A. Duquerroy, C. Mazet-Sonilhac and D. Paravisini. _Under revision_.
 
@@ -23,9 +23,6 @@ author_profile: true
 **Press coverage:**
 <a href="https://www.rsedatanews.net/article/article-finance-responsable-esg-isr-finance-durable--l-impact-de-l-article-173-sur-les-portefeuilles">RSE
 Data news</a>, <a href="https://www.responsible-investor.com/articles/french-climate-disclosure-laws-effective-in-curbing-fossil-fuel-financing-says-central-bank-study">Responsible investor</a>, <a href="https://www.economist.com/business/2021/03/13/regulators-want-firms-to-own-up-to-climate-risks" target="_blank">The Economist</a>
-
-[Set-up costs and the financing of young firms](https://econpapers.repec.org/RePEc:bfr:banfra:792). Banque de France Working Paper No. 792, December 2020. Previous version: [CEPR Discussion paper 14512](https://econpapers.repec.org/RePEc:cpr:ceprdp:14512), March 2020. With François Derrien and Guillaume Vuillemey. _Revise and resubmit at Management Science_.
-**Policy brief:** [SUERF policy brief 93](https://www.suerf.org/suer-policy-brief/25303/set-up-costs-and-the-financing-of-young-firms), May 2021
 
 # Work in progress
 
