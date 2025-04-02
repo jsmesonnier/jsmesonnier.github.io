@@ -5,15 +5,22 @@ permalink: /events/
 author_profile: true
 ---
 
-<p style='text-align: justify;'>Over the last decade, I have co-organized a number of academic events. Among them, two series are still ongoing: the Sciences Po Summer workshop in sustainable finance (end June) and the FirmOrgDyn reasearch conference, co-sponsored by Banque de France, Banca d'Italia, Sciences Po, EIEF and in association with the CEPR (early December). Watch out for our call for papers!</p>
+<p style='text-align: justify;'>Over the last decade, I have co-organized a number of academic events. Among them, two prominent series are the Sciences Po Summer workshop in sustainable finance (end June) and the FirmOrgDyn reasearch conference, co-sponsored by Banque de France, Banca d'Italia, Sciences Po, EIEF and in association with the CEPR (early December). Watch out for our call for papers!</p>
 
 # Sciences Po Summer Workshop in Sustainable Finance (SWSF)
+
+The workshop is sponsored by the Banque de France/Sciences Po partnership and has been organized jointly with HEC since 2024.
+
+_Upcoming edition_
+
+**Paris, 23-24 June 2025.** Program coming soon!
 
 _Past editions:_
 
 **Paris, 10-11 June 2024.** [Program](https://www.sciencespo.fr/department-economics/events/2024-summer-workshops-in-economics-june-10-and-11th/) 
 
-<p style='text-align: justify;'>No Summer workshop in June 2023 as Sciences Po's Econ Department hosted the 2023 Annual Congress of the French economic association (AFSE).</p>
+**Paris, 16 June 2023.** [Program](https://www.sciencespo.fr/department-economics/events/invited-sessions-7a-and-8d-sustainable-finance-sustainable-finance-workshop/)
+NB: in 2023 the workshop took the form of invited sessions at the 2023 Annual Congress of the French economic association (AFSE), hosted by Sciences Po.
 
 **Paris, 20-21 June 2022.** [Program](https://www.sciencespo.fr/department-economics/en/content/first-summer-workshop-sustainable-finance.html) 
 
