@@ -28,7 +28,7 @@ Data news</a>, <a href="https://www.responsible-investor.com/articles/french-cli
 
 **Greening banks: shareholders vs stakeholders.** With Andrea Andolfatto, Michele Fioretti and Clément Mazet-Sonilhac.
 
-**Due diligence risk.** With Lionel Fontagné and Clément Mazet-Sonilhac.
+**Due diligence risk.** With Lionel Fontagné, Clément Mazet-Sonilhac and Christoph Oberthur. _Coming soon!_
 
 # Older unpublished working papers
 

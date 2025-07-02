@@ -5,15 +5,15 @@ permalink: /events/
 author_profile: true
 ---
 
-<p style='text-align: justify;'>Over the last decade, I have co-organized a number of academic events. Among them, two prominent series are the Sciences Po Summer workshop in sustainable finance (end June) and the FirmOrgDyn reasearch conference, co-sponsored by Banque de France, Banca d'Italia, Sciences Po, EIEF and in association with the CEPR (early December). Watch out for our call for papers!</p>
+<p style='text-align: justify;'>Over the last decade, I have co-organized a number of academic events. Among them, two prominent series are the Sciences Po Summer workshop in sustainable finance (end June each year) and the FirmOrgDyn conference. Watch out for our call for papers!</p>
 
 # Sciences Po Summer Workshop in Sustainable Finance (SWSF)
 
 The workshop is sponsored by the Banque de France/Sciences Po partnership and has been organized jointly with HEC since 2024.
 
-_Upcoming edition_
+_Latest edition_
 
-**Paris, 23-24 June 2025.** Program coming soon!
+**Paris, 23-24 June 2025.** [Program](https://www.sciencespo.fr/department-economics/events/4th-summer-workshop-in-sustainable-finance/)
 
 _Past editions:_
 
@@ -26,6 +26,8 @@ NB: in 2023 the workshop took the form of invited sessions at the 2023 Annual Co
 
 
 # Joint research conference on Firm Financing, Organization and Dynamics (FirmOrgDyn)
+
+This conference series was co-sponsored by Banque de France, Banca d'Italia, Sciences Po, EIEF and in association with the CEPR. The last event of the series took place in Rome in December 2023.
 
 _Past editions_
 
