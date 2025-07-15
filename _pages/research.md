@@ -15,7 +15,7 @@ author_profile: true
 
 # Working papers
 
-[Some don't like it hot: bank depositors and NGO campaigns against brown banks](https://sciencespo.hal.science/hal-04350378v2). Sciences Po Discussion Paper No. 2023-08. Revised version: September 2024. With Clément Mazet-Sonilhac. Also [Banque de France Working Paper No. 968](https://www.banque-france.fr/en/publications-and-statistics/publications/some-dont-it-hot-bank-depositors-and-ngo-campaigns-against-brown-banks)
+[Some don't like it hot: bank depositors and NGO campaigns against brown banks](https://www.sciencespo.fr/department-economics/files/2025_c_mazet_sonilhac_and_j_s_mesonnier_some_dont_like_it_hot_bank_depositors_and_ngo_campaigns_against_brown_banks.pdf). Sciences Po Discussion Paper No. 2023-08. Revised version: July 2025. With Clément Mazet-Sonilhac. Also [Banque de France Working Paper No. 968](https://www.banque-france.fr/en/publications-and-statistics/publications/some-dont-it-hot-bank-depositors-and-ngo-campaigns-against-brown-banks)
 
 [Bank local specialization](https://publications.banque-france.fr/sites/default/files/medias/documents/wp865_0.pdf).Banque de France WP No. 865, February 2022. With A. Duquerroy, C. Mazet-Sonilhac and D. Paravisini. _Under revision_.
 
