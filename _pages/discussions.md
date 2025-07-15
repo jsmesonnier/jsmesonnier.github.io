@@ -1,14 +1,15 @@
 ---
 layout: archive
-title: "Publications"
+title: "Discussions"
 permalink: /discussions/
 author_profile: true
 ---
 
 # Selected recent discussions
 
-Berthou, A., Mayer, T., Mésonnier, J.-S., 2024. [Good connections: bank specialization and the tariff elasticity of exports](https://www.sciencedirect.com/science/article/pii/S002219962400148X?dgcid=author). **Journal of International
-Economics**, Volume 152, November.
+_Slides of these discussions are available upon demand._
+
+Georg, Pierret, Steffen (2025): “Similar Investors”. PSB Workshop on Banking and Financial Markets, Paris, 27 June 2025.
 
 Cheong, Choi, Ha, Ho (2024): "Does Foreign Institutional Capital Promote Green Growth for Emerging Market Firms?". CEBRA international finance and macroeconomics conference, ESM, Luxemburg, 21-22 November 2024.
 
