@@ -19,6 +19,8 @@ Nimier-David, Sraer, Thesmar (2024): "Effects of mandatory profit sharing on wor
 
 Döttling, Lam (2023): “Does monetary policy shape the path to carbon neutrality?”. Empirical Financial Intermediation workshop, KU Leuven and NBB, Brussels, 17 November 2023.
 
+Schiller (2023): “Global Supply-Chain networks and Corporate Social Responsibility”. PSE Workshop on CSR, 20 June 2023.
+
 Götz, Bittner, Arlinghaus, Koch (2023): “Carbon regulatory risk and capital reallocation”. Deutsche Bundesbank Spring Conference on “Climate change and central banks”, Eltville-am-Rhein, 11-12 May 2023.
 
 Laeven, Popov (2023): “Carbon taxes and the geography of fossil lending”. Eurosystem’s Research Cluster on Climate Change, Webinar, 2 February 2023.
