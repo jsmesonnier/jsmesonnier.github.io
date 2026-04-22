@@ -5,17 +5,23 @@ permalink: /events/
 author_profile: true
 ---
 
-<p style='text-align: justify;'>Over the last decade, I have co-organized a number of academic events. Among them, two prominent series are the Sciences Po Summer workshop in sustainable finance (end June each year) and the FirmOrgDyn conference. Watch out for our call for papers!</p>
+<p style='text-align: justify;'>Over the last decade, I have co-organized a number of academic events. Among them, two prominent series were the Sciences Po Summer workshop in sustainable finance (end June each year) and the FirmOrgDyn conference. Watch out for our call for papers!</p>
+
+# Transatlantic Workshop in Energy and Nature-related Finance
+
+A joint initiative of researchers at Banque de France, HEC Paris, Sciences Po Paris and the Kenan-Flagler Business School of the University of North Carolina at Chapel Hill. Building on the success of both Sciences Po’s Summer Workshop in Sustainable Finance (see below), and the experience of the [HEC-HKUST Sustainable Finance Workshop](https://sites.google.com/view/hec-hkust-sustainable-finance/home) (since 2023), this new dual-venue workshop will take place in hybrid mode at the same time in two conference rooms, one in Paris and one in Chapel Hill. Presentations and discussions will alternate between both locations. The aim of the workshop is to create a platform for collaboration and knowledge-sharing between the two sides of the Atlantic, while minimizing the need for travel and promoting sustainable practices.
+
+_First edition_
+
+**Paris and Chapel Hill, 4-5 May 2026** [Program](https://www.banque-france.fr/en/events/1st-dual-venue-transatlantic-workshop-energy-and-nature-finance)
 
 # Sciences Po Summer Workshop in Sustainable Finance (SWSF)
 
-The workshop is sponsored by the Banque de France/Sciences Po partnership and has been organized jointly with HEC since 2024.
+The workshop was sponsored by the Banque de France/Sciences Po partnership and was organized jointly with HEC since 2024.
 
-_Latest edition_
+_Past events_
 
 **Paris, 23-24 June 2025.** [Program](https://www.sciencespo.fr/department-economics/events/4th-summer-workshop-in-sustainable-finance/)
-
-_Past editions:_
 
 **Paris, 10-11 June 2024.** [Program](https://www.sciencespo.fr/department-economics/events/2024-summer-workshops-in-economics-june-10-and-11th/) 
 
@@ -29,7 +35,7 @@ NB: in 2023 the workshop took the form of invited sessions at the 2023 Annual Co
 
 This conference series was co-sponsored by Banque de France, Banca d'Italia, Sciences Po, EIEF and in association with the CEPR. The last event of the series took place in Rome in December 2023.
 
-_Past editions_
+_Past events_
 
 **Adapting to a riskier and more fragmented world.**  Rome, 11-12 December 2023. [Call for papers](https://www.bancaditalia.it/media/notizia/international-research-conference-on-firm-financing-organization-and-dynamics-adapting-to-a-riskier-and-more-fragmented-world/?dotcache=refresh&dotcache=refresh&dotcache=refresh) and [Program](https://www.bancaditalia.it/media/agenda/2023-12-11_international-research-conference-on-firm-financing-organization-and-dynamics-adapting-to-a-riskier-and-more-fragmented-world/?com.dotmarketing.htmlpage.language=1)
 
