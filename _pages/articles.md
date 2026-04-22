@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 # Peer-reviewed publications
-Derrien, F., Mésonnier, J.-S., Vuillemey, G., 2025. [Set-up costs and the financing of young firms](https://doi.org/10.1287/mnsc.2023.03846). **Management Science**, forthcoming. Online 24 NOv. 2025. 
-[Latest WP version](https://www.dropbox.com/scl/fi/45h868di13amjz15n60u2/DMV_paper_20250117.pdf?rlkey=54n9hcf27qx93tt4hefyy3qwn&dl=0))
+Derrien, F., Mésonnier, J.-S., Vuillemey, G., 2025. [Set-up costs and the financing of young firms](https://doi.org/10.1287/mnsc.2023.03846). **Management Science**, forthcoming. Online 24 Nov. 2025. 
+[Latest WP version](https://www.dropbox.com/scl/fi/45h868di13amjz15n60u2/DMV_paper_20250117.pdf?rlkey=54n9hcf27qx93tt4hefyy3qwn&dl=0)
 
 Berthou, A., Mayer, T., Mésonnier, J.-S., 2024. [Good connections: bank specialization and the tariff elasticity of exports](https://www.sciencedirect.com/science/article/pii/S002219962400148X?dgcid=author). **Journal of International
 Economics**, Volume 152, November.
