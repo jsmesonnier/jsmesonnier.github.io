@@ -9,7 +9,13 @@ author_profile: true
 
 _Slides of these discussions are available upon demand._
 
-Georg, Pierret, Steffen (2025): “Similar Investors”. PSB Workshop on Banking and Financial Markets, Paris, 27 June 2025.
+Espegren, Moelster Galaasen, Garcia-Appendini, Maehlum (2025): "Weathering the storm? The effects of Natural disasters on households under universal insurance". Banque de France-Bundesbank conference on Nature and Economics, Paris, 11-12 March 2026.
+
+Jiang (2025): "Shale debt structure and pollution control". EUROFIDAI ESSEC Paris December Meeting, Paris, 18 December 2025.
+
+Brisoe-Tran (2025): "Do Employees Have Useful Information about Firms' ESG Practices". HEC-HKUST Sustainable finance workshop, Paris, 9-10 October 2025.
+
+Georg, Pierret, Steffen (2025): "Similar Investors". PSB Workshop on Banking and Financial Markets, Paris, 27 June 2025.
 
 Cheong, Choi, Ha, Ho (2024): "Does Foreign Institutional Capital Promote Green Growth for Emerging Market Firms?". CEBRA international finance and macroeconomics conference, ESM, Luxemburg, 21-22 November 2024.
 
