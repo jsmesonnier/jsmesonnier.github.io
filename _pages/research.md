@@ -15,7 +15,7 @@ author_profile: true
 
 # Working papers
 
-[Some don't like it hot: bank depositors and NGO campaigns against brown banks](https://www.sciencespo.fr/department-economics/files/2025_c_mazet_sonilhac_and_j_s_mesonnier_some_dont_like_it_hot_bank_depositors_and_ngo_campaigns_against_brown_banks.pdf). Sciences Po Discussion Paper No. 2023-08. Revised version: July 2025. With Clément Mazet-Sonilhac. Also [Banque de France Working Paper No. 968](https://www.banque-france.fr/en/publications-and-statistics/publications/some-dont-it-hot-bank-depositors-and-ngo-campaigns-against-brown-banks)
+[Climate-conscious bank customers](https://sciencespo.hal.science/hal-04350378v4). Sciences Po Discussion Paper No. 2023-08. Revised version: January 2026. With Clément Mazet-Sonilhac. Also previoulsy [Banque de France Working Paper No. 968](https://www.banque-france.fr/en/publications-and-statistics/publications/some-dont-it-hot-bank-depositors-and-ngo-campaigns-against-brown-banks)
 
 [Bank local specialization](https://publications.banque-france.fr/sites/default/files/medias/documents/wp865_0.pdf).Banque de France WP No. 865, February 2022. With A. Duquerroy, C. Mazet-Sonilhac and D. Paravisini. _Under revision_.
 
@@ -26,9 +26,13 @@ Data news</a>, <a href="https://www.responsible-investor.com/articles/french-cli
 
 # Work in progress
 
-**Greening banks: shareholders vs stakeholders.** With Andrea Andolfatto, Michele Fioretti and Clément Mazet-Sonilhac.
+**Due diligence risk.** With Lionel Fontagné, Clément Mazet-Sonilhac and Christoph Oberthur. 
 
-**Due diligence risk.** With Lionel Fontagné, Clément Mazet-Sonilhac and Christoph Oberthur. _Coming soon!_
+**Opportunistic vs motivated responsible investors.** With Pierre-Emmanuel Darpeix, Vincent Guégan and Dilyara Salakhova.
+
+**Institutional investors and sustainable forest management.** With Etienne de l'Estoile and Guillaume Vuillemey.
+
+**Understanding corporate support to CSR regulation.** With Anne-Laure Delatte, Gwenn Gueguen and Thomas Lambert.
 
 # Older unpublished working papers
 
