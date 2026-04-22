@@ -5,11 +5,11 @@ permalink: /events/
 author_profile: true
 ---
 
-<p style='text-align: justify;'>Over the last decade, I have co-organized a number of academic events. Among them, two prominent series were the Sciences Po Summer workshop in sustainable finance (end June each year) and the FirmOrgDyn conference. Watch out for our call for papers!</p>
+<p style='text-align: justify;'>Over the last decade, I have co-organized a number of academic events. Among them, two prominent series were the Sciences Po Summer workshop in sustainable finance (2022-2025), now replaced by the Transtlantic workshop in energy and nature-related finance, and the annual FirmOrgDyn conference (2018-2023).</p>
 
 # Transatlantic Workshop in Energy and Nature-related Finance
 
-A joint initiative of researchers at Banque de France, HEC Paris, Sciences Po Paris and the Kenan-Flagler Business School of the University of North Carolina at Chapel Hill. Building on the success of both Sciences Po’s Summer Workshop in Sustainable Finance (see below), and the experience of the [HEC-HKUST Sustainable Finance Workshop](https://sites.google.com/view/hec-hkust-sustainable-finance/home) (since 2023), this new dual-venue workshop will take place in hybrid mode at the same time in two conference rooms, one in Paris and one in Chapel Hill. Presentations and discussions will alternate between both locations. The aim of the workshop is to create a platform for collaboration and knowledge-sharing between the two sides of the Atlantic, while minimizing the need for travel and promoting sustainable practices.
+A joint initiative of researchers at Banque de France, HEC Paris, Sciences Po Paris and the Kenan-Flagler Business School of the University of North Carolina at Chapel Hill. Building on the success of both Sciences Po’s Summer Workshop in Sustainable Finance (see below) and [HEC-HKUST's Sustainable Finance Workshop](https://sites.google.com/view/hec-hkust-sustainable-finance/home) (since 2023), this new dual-venue workshop will take place in hybrid mode at the same time in two conference rooms, one in Paris and one in Chapel Hill. The aim of the workshop is to stimulate collaboration and knowledge-sharing in sustainable finance between the two sides of the Atlantic, while minimizing the need for travel and promoting sustainable practices.
 
 _First edition_
 
